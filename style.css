@@ -35,6 +35,13 @@ li{
 a{
     color: #777;
 }
+
+nav{
+    position: sticky;
+    top: 0;
+    background-color: white;
+}
+
 /*FrontPage Article*/
 main h2{
     font-family: "Roboto Slab";
